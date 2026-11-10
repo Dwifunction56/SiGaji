@@ -1,0 +1,6 @@
+   venv/
+   __pycache__/
+   config.ini
+   penggajian.log
+   *.csv
+   slip_*.txt
